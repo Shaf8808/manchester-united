@@ -15,7 +15,13 @@ body  {
     font-weight: 300;
 }
 
+
 /* headings and logo */
+
+header  {
+    background-color: #040101;
+    padding-bottom: 0.5%;
+}
 
 h1, h2  {
 
@@ -23,13 +29,13 @@ h1, h2  {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 300%;
-    color: #252525;
+    color: rgba(247, 245, 243, 0.97);
 }
 
 #title  {
     display: flex;
     justify-content: flex-start;
-    padding-left: 0.3%;
+    padding-left: 0.5%;
 }
 
 #logo  {
