@@ -9,7 +9,24 @@
 
 body  {
 
-    font-family: Teko;
-    font-weight: 300;
+    font-family: Oswald, sans-serif;
+    color: #3a3a3a;
     font-size: larger;
+    font-weight: 300;
+}
+
+/* headings and logo */
+
+h1, h2  {
+
+    font-family: Teko, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 350%;
+    color: #252525;
+}
+
+#logo  {
+    display: grid;
+    
 }
