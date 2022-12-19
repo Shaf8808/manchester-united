@@ -18,9 +18,9 @@ body  {
 
 /* headings and logo */
 
-header  {
-    background-color: #040101;
-    padding-bottom: 0.5%;
+.banner  {
+    background-color: black;
+    
 }
 
 header a {
@@ -32,7 +32,7 @@ header nav  {
 }
 
 h1, h2  {
-
+    
     font-family: Teko, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -48,4 +48,27 @@ h1, h2  {
 
 #logo  {
     padding-left: 0.3%;
+}
+
+/* navigation links */
+
+#menu  {
+    font-size: 120%;
+    letter-spacing: 3px;
+    position: absolute;
+  top: 8px;
+  right: 16px;
+  
+}
+
+#menu li  {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    margin-top: 13px;
+}
+
+#menu a  {
+    color: rgba(247, 245, 243, 0.97);
+    word-spacing: -3px;
 }
