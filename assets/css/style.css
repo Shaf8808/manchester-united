@@ -31,13 +31,19 @@ header nav  {
     text-decoration: none;
 }
 
-h1, h2  {
+h1  {
     
     font-family: Teko, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 300%;
     color: rgba(247, 245, 243, 0.97);
+}
+
+h2   {
+    font-family: Teko,sans-serif;
+    font-size: 200%;
+    color: #3a3a3a;
 }
 
 #title  {
@@ -57,8 +63,7 @@ h1, h2  {
     letter-spacing: 3px;
     position: absolute;
   top: 8px;
-  right: 16px;
-  
+  right: 16px; 
 }
 
 #menu li  {
