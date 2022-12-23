@@ -115,3 +115,34 @@ h2   {
         transform: scale(1);
     }
 }
+
+/*  Welcome section  */
+
+#welcome  {
+    
+    width: 100%;
+    background-color: var(--white);
+    color: var(--black);
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.center  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-heading  {
+    margin: 5rem auto;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+    width: 20rem;
+    background-color: red;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: #110202;
+    color: white;
+}
