@@ -138,11 +138,11 @@ h2   {
     font-size: 2.5rem;
     letter-spacing: 2px;
     width: 20rem;
-    background-color: red;
+    background-color: rgb(173, 11, 11);
     border-radius: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
     box-shadow: #110202;
-    color: white;
+    color: rgba(247, 245, 243, 0.97);
 }
