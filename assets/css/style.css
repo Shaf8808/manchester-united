@@ -18,18 +18,14 @@ body  {
 
 /* headings and logo */
 
+
+
 .banner  {
     background-color: rgb(173, 11, 11);
     
 }
 
-header a {
-    text-decoration: none;
-}
 
-header nav  {
-    text-decoration: none;
-}
 
 h1  {
     
@@ -76,6 +72,7 @@ h2   {
 #menu a  {
     color: rgba(247, 245, 243, 0.97);
     word-spacing: -3px;
+    text-decoration: none;
 }
 
 /*  hero image */
