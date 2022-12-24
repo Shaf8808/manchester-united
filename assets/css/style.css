@@ -119,12 +119,15 @@ h2   {
 /*  Welcome section  */
 
 #welcome  {
-    
-    width: 100%;
+    width: 50%;
     background-color: var(--white);
     color: var(--black);
+    display: flex;
     flex-direction: column;
-    
+    justify-content: center;
+    align-items: center;
+    padding-left: 25%;
+    padding-right: 25%;
 }
 
 .center  {
@@ -135,7 +138,7 @@ h2   {
 }
 
 .section-heading  {
-    margin: 5rem auto;
+    margin: 3rem auto;
     font-size: 2.5rem;
     letter-spacing: 2px;
     width: 20rem;
