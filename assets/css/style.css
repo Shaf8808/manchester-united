@@ -22,10 +22,8 @@ body  {
 
 .banner  {
     background-color: rgb(173, 11, 11);
-    
+
 }
-
-
 
 h1  {
     
@@ -52,7 +50,16 @@ h2   {
     padding-left: 0.3%;
 }
 
-/* navigation links */
+/* navigation bar */
+
+#nav-bar  {
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 7.5rem;
+}
 
 #menu  {
     font-size: 120%;
