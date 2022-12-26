@@ -165,14 +165,19 @@ table {
   
   table, tr, td, th {
     border: 2px solid black;
+    font-size: 25px;
   }
   
   th {
     vertical-align: top;
   }
 
-  .win  {
+  .win:hover {
     background-color: green;
-    font-size: larger;
+    color: rgba(247, 245, 243, 0.97);
+  }
+
+  .loss:hover  {
+    background-color: red;
     color: rgba(247, 245, 243, 0.97);
   }
