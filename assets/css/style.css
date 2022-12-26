@@ -108,7 +108,7 @@ h2   {
 
 /*  creates level of zoom for hero image */
 
-@keyframes  hero-zoom  {
+/*@keyframes  hero-zoom  {
     0% {
         transform: scale(1);
     }
@@ -118,7 +118,7 @@ h2   {
     100% {
         transform: scale(1);
     }
-}
+}  */
 
 /*  Welcome section  */
 
@@ -169,4 +169,10 @@ table {
   
   th {
     vertical-align: top;
+  }
+
+  .win  {
+    background-color: green;
+    font-size: larger;
+    color: rgba(247, 245, 243, 0.97);
   }
