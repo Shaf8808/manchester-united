@@ -87,29 +87,31 @@ On a normal desktop screen, the navigation bar is displayed as intended on the t
 As the navigation bar would not be clearly visible to the user, it takes on a hamburger style on smaller screens such as mobile devices.
 When selected by the user, it redirects the user to a main menu which consists of each navigational link to each section of my website. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
 
-#### **Home section**
+## Sections
+
+### **Home section**
 The home section consists of the banner shown below:
 
 The banner is both relevant and grabs the user’s attention. It clearly tells the user it is a Manchester United website. It also includes a zoom in and out animation in order to make the website seem more fun and interactive.
 
 Below the banner is a Welcome section which details what the website is and what the user can expect to find within it. It is a brief and useful introduction of my website which users will find helpful once they enter the site.
 
-#### **Fixtures and Results**
+### **Fixtures and Results**
 This section includes information regarding the upcoming fixtures of Manchester United, as well as their recent results in previous games played in a tabular format. The reason why I have decided to include this is so that users are informed about how the club has performed recently in their last run of matches in a clear and structured way that makes it easy for users to view and understand without any confusion. The table that I have included also includes a colour code where every result which the club has won is displayed in green, while every loss is displayed in red.
 
 
 
 
 
-#### **Player Focus**
+### **Player Focus**
 This is a section dedicated to one player from Manchester United. This includes a brief analysis of the way the player performs in a game as well as their key strengths and weaknesses that make them unique from the rest of the team. The reason why I have decided to include this section is to give the user a sense of connection to the club through it’s most exciting players, as well as retain their attention and engagement in the site. 
 
 
-#### **Contact**
+### **Contact**
 The Contact section contains a form where the user enters their personal details such as their name and email address if they wish to get in touch with the provider. 
 
 
-#### **Footer**
+### **Footer**
 The footer contains social media icons that redirects the user to the official social media site such as Facebook or Twitter.
 
 ## Technologies Used
