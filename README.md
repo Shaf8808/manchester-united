@@ -69,3 +69,67 @@ It is vital that the structure of my website has a level of consistency within i
 
 The structure that I have decided to go with is the name of the club, Manchester United displayed on the top left hand corner along with the badge. The navigation bar is displayed on the opposite side at the top of each section to retain that consistency throughout. I have then decided to include a banner with an appropriate image below the nav bar that has a zoom in and out effect applied. These elements are consistent throughout my whole website regardless of the content shown below them.
 
+## Features
+
+### Existing Features
+
+#### **Header and logo**
+The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look and feeling to the section.
+
+#### **Navigation Bar**
+The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Players and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
+
+
+#### **Desktop (min-width: …..px)**
+On a normal desktop screen, the navigation bar is displayed as intended on the top right hand side of the screen, with all of the links visible to the user
+
+#### **Small screens (min-width: …..px)**
+As the navigation bar would not be clearly visible to the user, it takes on a hamburger style on smaller screens such as mobile devices.
+When selected by the user, it redirects the user to a main menu which consists of each navigational link to each section of my website. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
+
+#### **Home section**
+The home section consists of the banner shown below:
+
+The banner is both relevant and grabs the user’s attention. It clearly tells the user it is a Manchester United website. It also includes a zoom in and out animation in order to make the website seem more fun and interactive.
+
+Below the banner is a Welcome section which details what the website is and what the user can expect to find within it. It is a brief and useful introduction of my website which users will find helpful once they enter the site.
+
+#### **Fixtures and Results**
+This section includes information regarding the upcoming fixtures of Manchester United, as well as their recent results in previous games played in a tabular format. The reason why I have decided to include this is so that users are informed about how the club has performed recently in their last run of matches in a clear and structured way that makes it easy for users to view and understand without any confusion. The table that I have included also includes a colour code where every result which the club has won is displayed in green, while every loss is displayed in red.
+
+
+
+
+
+#### **Player Focus**
+This is a section dedicated to one player from Manchester United. This includes a brief analysis of the way the player performs in a game as well as their key strengths and weaknesses that make them unique from the rest of the team. The reason why I have decided to include this section is to give the user a sense of connection to the club through it’s most exciting players, as well as retain their attention and engagement in the site. 
+
+
+#### **Contact**
+The Contact section contains a form where the user enters their personal details such as their name and email address if they wish to get in touch with the provider. 
+
+
+#### **Footer**
+The footer contains social media icons that redirects the user to the official social media site such as Facebook or Twitter.
+
+## Technologies Used
+
+### Languages
+*	HTML
+*	CSS
+### Libraries & Framework
+*	Google Fonts
+*	Font Awesome library
+### Tools
+*	Gitpod
+*	Balsamic
+*	W3C HTML Validation Service
+*	W3C CSS Validation Service
+*	Bootstrap
+*	Colourmind
+*	Font Awesome library
+*	Google Fonts
+*	Unsplash
+*	Box Shadow Generator
+
+
