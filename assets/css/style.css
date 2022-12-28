@@ -186,14 +186,19 @@ table {
 
   .player-info  {
     width: 50%;
-    margin-left: 15px;
-    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 25%;
+    padding-right: 25%;
   }
 
   #right-about  {
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
   }
 
   #circle-container  {
@@ -203,5 +208,11 @@ table {
     border-style: solid;
     border-color: #ccc;
     border-width: 1px;
+    border-radius: 50%;
     background-color: #110202;
+  }
+
+  #player-name  {
+    display: flex;
+    justify-content: center;
   }
