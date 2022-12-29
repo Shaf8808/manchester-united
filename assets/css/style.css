@@ -216,6 +216,23 @@ table {
     border-radius: 50%;
   }
 
+  #circle-cover-bg:hover  {
+    
+    animation-name: player-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    
+  }
+    @keyframes player-zoom  {
+
+        0% {
+            transform: scale(1);
+        }
+        100% {
+            transform: scale(1.1);}
+
+        }
+
   #player-name  {
     display: flex;
     justify-content: center;
