@@ -194,7 +194,7 @@ table {
     padding-right: 25%;
   }
 
-  #right-about  {
+  #center-about  {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -202,14 +202,18 @@ table {
   }
 
   #circle-container  {
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 600px;
     padding: 30px;
     border-style: solid;
     border-color: #ccc;
-    border-width: 1px;
     border-radius: 50%;
-    background-color: #110202;
+  }
+
+  #circle-cover-bg  {
+    background: url(../images/player-image.jpg) no-repeat center top;
+    height: 100%;
+    border-radius: 50%;
   }
 
   #player-name  {
