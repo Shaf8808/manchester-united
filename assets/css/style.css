@@ -278,9 +278,22 @@ table {
     justify-content: center;
   }
 
+  
+
   /* Contact form section */
 
   .contact-section {
+
     background-color: #211f1f;
+    color: rgba(247, 245, 243, 0.97);
+    /* margin: 150px 10% 0 0; */
+    /* max-width: 400px; */
+    /* position: absolute; */
+    /* left: 10%; */
+    padding: 30px;
+  }
+
+  .text-input  {
+    
   }
 
