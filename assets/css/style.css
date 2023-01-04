@@ -298,8 +298,25 @@ table {
     margin-top: 50px;
   }
 
+  .contact-header  {
+    font-size: xx-large;
+  }
+
+  .contact-sub-header  {
+    font-size: larger;
+  }
+
   form label  {
     display: flex;
     flex-direction: column;
+    padding-top: 10px;
+    font-size: x-large;
+    font-weight: lighter;
+  }
+
+  .text-input  {
+    width: 50%;
+    height: 20px;
+    border-radius: 25px;
   }
 
