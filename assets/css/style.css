@@ -283,7 +283,7 @@ table {
   /* Contact form section */
 
   .contact-section {
-
+    margin-top: 60px;
     background-color: #211f1f;
     color: rgba(247, 245, 243, 0.97);
     /* margin: 150px 10% 0 0; */
@@ -293,7 +293,13 @@ table {
     padding: 30px;
   }
 
-  .text-input  {
-    
+  .contact-logo  {
+    float: right;
+    margin-top: 50px;
+  }
+
+  form label  {
+    display: flex;
+    flex-direction: column;
   }
 
