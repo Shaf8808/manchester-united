@@ -315,8 +315,18 @@ table {
   }
 
   .text-input  {
-    width: 50%;
+    width: 20%;
     height: 20px;
     border-radius: 25px;
+  }
+
+  .submit-button  {
+    margin-left: 10px;
+    border-radius: 25px;
+    padding: 12px 30px 12px 30px;
+    text-align: center;
+    font-size: 100%;
+    background-color: rgb(173, 11, 11);
+    color: #fafafa;
   }
 
