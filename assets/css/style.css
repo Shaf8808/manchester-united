@@ -298,7 +298,7 @@ table {
     margin-top: 50px;
   }
 
-  .contact-header  {
+  #contact-header  {
     font-size: xx-large;
   }
 
@@ -328,5 +328,10 @@ table {
     font-size: 100%;
     background-color: rgb(173, 11, 11);
     color: #fafafa;
+  }
+
+  .submit-button:hover  {
+    background-color: #fafafa;
+    color: #211f1f;
   }
 
