@@ -114,6 +114,7 @@ h2   {
 
   cursor: pointer;
   z-index: 1;
+  
 }
 
 .menu-btn > span,
@@ -125,7 +126,7 @@ h2   {
   width: 100%;
   height: 2px;
 
-  background-color: #616161;
+  background-color: #0d0b0b;
 
   transition-duration: .25s;
 }
@@ -145,7 +146,7 @@ h2   {
   top: 0;
   right: -100%;
 
-  width: 300px;
+  width: 200px;
   height: 100%;
 
   margin: 0;
@@ -158,6 +159,12 @@ h2   {
 
   transition-duration: .25s;
 }
+
+.menu-box a {
+  text-align: right;
+}
+
+
 
 .menu-item {
   display: block;
