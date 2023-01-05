@@ -2,6 +2,7 @@
 
 html  {
   scroll-behavior: smooth;
+  scroll-padding-top: 30px;
 }
 
 
@@ -53,6 +54,8 @@ h2   {
 
 #logo  {
     padding-left: 0.3%;
+    width: 75px; 
+    height: 75px;
 }
 
 /* navigation bar */
@@ -143,11 +146,12 @@ h2   {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     width: 100%;
 }
 
 .section-heading  {
-    margin: 3rem auto;
+    margin: 2rem auto;
     font-size: 2.5rem;
     letter-spacing: 2px;
     width: 20rem;
