@@ -75,6 +75,16 @@ h2   {
 
 }
 
+@media screen and (max-width: 1160px)  {
+  #menu a {
+    display: none;
+  }
+}
+  
+
+
+  
+
 
 /* #menu__toggle {
   opacity: 0;
