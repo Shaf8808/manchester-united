@@ -109,7 +109,7 @@ h2   {
 }
 #menu__toggle:checked ~ .menu__box {
   visibility: visible;
-  left: 0;
+  right: 0;
 }  
 
   .menu__btn {
@@ -153,7 +153,7 @@ h2   {
   position: fixed;
   visibility: hidden;
   top: 0;
-  left: -100%;
+  right: -100%;
 
   width: 300px;
   height: 100%;
@@ -175,7 +175,7 @@ h2   {
 
   color: #333;
 
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 20px;
   font-weight: 600;
 
