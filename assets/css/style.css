@@ -197,7 +197,8 @@ h2   {
   transition-duration: .25s;
 }
 .menu-item:hover {
-  background-color: #CFD8DC;
+  background-color: rgb(173, 11, 11);
+  color: rgba(247, 245, 243, 0.97);
 }  
 
 
