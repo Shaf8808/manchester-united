@@ -28,6 +28,8 @@ body  {
 
 .banner  {
     background-color: rgb(173, 11, 11);
+    display: flex;
+    flex-direction: row;
 
 }
 
@@ -85,9 +87,22 @@ h2   {
   top: 8px;
   right: 16px; 
   }
+
+  #title  {
+    display: none;
+  
+}
+
+#logo  {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 8px;
+  width: 75px; 
+  height: 75px;
 }
   
-
+}
 
  /*  Hamburger menu styling  */ 
 
