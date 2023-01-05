@@ -92,27 +92,17 @@ h2   {
  /*  Hamburger menu styling  */ 
 
 
- #menu__toggle {
+ #menu-toggle {
   opacity: 0;
-}
+} 
 
-#menu__toggle:checked ~ .menu__btn > span {
-  transform: rotate(45deg);
-}
-#menu__toggle:checked ~ .menu__btn > span::before {
-  top: 0;
-  transform: rotate(0);
-}
-#menu__toggle:checked ~ .menu__btn > span::after {
-  top: 0;
-  transform: rotate(90deg);
-}
-#menu__toggle:checked ~ .menu__box {
+
+#menu-toggle:checked ~ .menu-box {
   visibility: visible;
   right: 0;
 }  
 
-  .menu__btn {
+  .menu-btn {
   display: flex;
   align-items: center;
   position: fixed;
@@ -126,9 +116,9 @@ h2   {
   z-index: 1;
 }
 
-.menu__btn > span,
-.menu__btn > span::before,
-.menu__btn > span::after {
+.menu-btn > span,
+.menu-btn > span::before,
+.menu-btn > span::after {
   display: block;
   position: absolute;
 
@@ -139,16 +129,16 @@ h2   {
 
   transition-duration: .25s;
 }
-.menu__btn > span::before {
+.menu-btn > span::before {
   content: '';
   top: -8px;
 }
-.menu__btn > span::after {
+.menu-btn > span::after {
   content: '';
   top: 8px;
 }
 
-.menu__box {
+.menu-box {
   display: block;
   position: fixed;
   visibility: hidden;
@@ -163,13 +153,13 @@ h2   {
 
   list-style: none;
 
-  background-color: #ECEFF1;
+  background-color: #e8e4e4;
   box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
 
   transition-duration: .25s;
 }
 
-.menu__item {
+.menu-item {
   display: block;
   padding: 12px 24px;
 
@@ -183,7 +173,7 @@ h2   {
 
   transition-duration: .25s;
 }
-.menu__item:hover {
+.menu-item:hover {
   background-color: #CFD8DC;
 }  
 
