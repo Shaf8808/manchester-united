@@ -142,7 +142,7 @@ h2   {
   height: 2px;
 
 
-  background-color: #0d0b0b;
+  background-color: rgba(247, 245, 243, 0.97);
 
   transition-duration: .25s;
 }
@@ -170,7 +170,7 @@ h2   {
 
   list-style: none;
 
-  background-color: #e8e4e4;
+  background-color: rgb(173, 11, 11);
   box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
 
   transition-duration: .25s;
@@ -186,7 +186,7 @@ h2   {
   display: block;
   padding: 12px 24px;
 
-  color: #333;
+  color: rgba(247, 245, 243, 0.97);
 
   font-family: 'Oswald', sans-serif;
   font-size: 20px;
@@ -197,7 +197,7 @@ h2   {
   transition-duration: .25s;
 }
 .menu-item:hover {
-  background-color: rgb(173, 11, 11);
+  background-color: #211f1f;
   color: rgba(247, 245, 243, 0.97);
 }  
 
