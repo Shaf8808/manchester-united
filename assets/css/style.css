@@ -253,28 +253,9 @@ position: fixed;
     background: url(../images/hero-image.jpg) no-repeat center top;
     background-size: cover;
 
-    /* animates zoom effect on homepage */
-
-    animation-name: hero-zoom;
-    animation-duration: 15s;
-    animation-fill-mode: forwards;
-
 }
 
 
-/*  creates level of zoom for hero image */
-
-/*@keyframes  hero-zoom  {
-    0% {
-        transform: scale(1);
-    }
-    50% {
-        transform: scale(1.1);
-    }
-    100% {
-        transform: scale(1);
-    }
-}  */
 
 /*  Welcome section  */
 
