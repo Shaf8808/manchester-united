@@ -12,7 +12,6 @@ html {
   display: flex;
   flex-direction: column;
   width: 100%;
-  /* display: flex; */
 }
 
 .content-container {
@@ -188,7 +187,7 @@ h2 {
 /* Navigation bar  */
 
 .nav-bar {
-  /* position: fixed; */
+  position: fixed; 
   z-index: 2000;
   top: 0;
   left: 0;
