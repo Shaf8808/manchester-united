@@ -370,6 +370,7 @@ table {
     justify-content: center;
     align-items: center;
     padding-top: 20px;
+    padding-bottom: 1rem;
   }
 
   #circle-container  {
@@ -407,6 +408,7 @@ table {
   #player-name  {
     display: flex;
     justify-content: center;
+    font-size: 2rem;
   }
 
   
