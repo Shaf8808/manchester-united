@@ -478,6 +478,15 @@ footer  {
     right: 16px;
   }
 
+  footer  {
+    height: 4rem;
+  }
+
+  .social-media i  {
+    padding-top: 15px;
+    font-size: 2rem;
+  }
+
 }
 
 @media screen and (max-width: 1160px) {
