@@ -443,6 +443,19 @@ form label {
   color: #211f1f;
 }
 
+/* Footer */
+
+footer  {
+  height: 3rem;
+}
+
+.social-media  {
+  display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  list-style-type: none;
+}
+
 /* Responsive design queries  */
 
 @media screen and (min-width: 1160px) {
