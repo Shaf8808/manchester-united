@@ -211,6 +211,11 @@ h2 {
   text-decoration: none;
 }
 
+#menu a:hover  {
+  text-decoration: underline;
+  
+}
+
 /*  hero image */
 
 #hero-outer {
