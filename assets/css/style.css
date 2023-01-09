@@ -431,6 +431,11 @@ form label {
   border-radius: 25px;
 }
 
+.text-input-two  {
+  width: 20%;
+  height: 20px;
+}
+
 
 
 .submit-button {
@@ -567,6 +572,14 @@ padding-left: 18%;
       transform: scale(1.2);
     }
   
+  }
+
+  /*  Contact Section */
+
+  .text-input-two  {
+    width: 80%;
+      height: 6rem;
+      margin: 5px 0 15px;
   }
 
 }
