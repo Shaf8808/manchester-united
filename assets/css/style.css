@@ -525,12 +525,20 @@ footer  {
 
   font-size: 19px;
   }
-  
+
   td,
 th {
   position: relative;
   padding: 9px;
 }
+
+/* Player Focus */
+
+.player-info  {
+padding-left: 18%;
+    padding-right: 18%;
+}
+
 
   #circle-container {
     padding: 30px;
