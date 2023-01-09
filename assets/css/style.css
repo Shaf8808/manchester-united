@@ -455,6 +455,11 @@ form label {
   color: #211f1f;
 }
 
+.submission-logo  {
+  height: 5rem;
+  width: 5rem;
+}
+
 /* Footer */
 
 footer  {
