@@ -519,6 +519,19 @@ footer  {
     height: 75px;
   }
 
+  /* Table queries */
+
+  table  {
+
+  font-size: 19px;
+  }
+  
+  td,
+th {
+  position: relative;
+  padding: 9px;
+}
+
   #circle-container {
     padding: 30px;
     width: 18rem;
