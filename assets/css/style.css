@@ -596,4 +596,10 @@ padding-left: 18%;
     display: none;
   }
 
+  /* Footer */
+
+  footer  {
+    height: 2.5rem;
+  }
+
 }
