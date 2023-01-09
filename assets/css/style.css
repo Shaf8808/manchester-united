@@ -582,4 +582,16 @@ padding-left: 18%;
       margin: 5px 0 15px;
   }
 
+  .text-input  {
+    width: 80%;
+  }
+
+  .submit-button  {
+    margin-left: 0;
+  }
+
+  .contact-logo  {
+    display: none;
+  }
+
 }
