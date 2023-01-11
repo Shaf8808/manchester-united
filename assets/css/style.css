@@ -3,7 +3,6 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 90px;
-  /* display: flex; */
   max-width: 100%;
   
 }
@@ -62,9 +61,6 @@ h2 {
   letter-spacing: 2px;
   color: rgba(247, 245, 243, 0.97);
   font-size: 3rem;
-  /* font-family: Teko, sans-serif;
-  font-size: 200%;
-  color: #3a3a3a; */
 }
 
 .title {
