@@ -52,20 +52,26 @@ h1 {
   font-family: Teko, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 300%;
   color: rgba(247, 245, 243, 0.97);
 }
 
 h2 {
+
   font-family: Teko, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgba(247, 245, 243, 0.97);
+  font-size: 3rem;
+  /* font-family: Teko, sans-serif;
   font-size: 200%;
-  color: #3a3a3a;
+  color: #3a3a3a; */
 }
 
 .title {
   display: flex;
   justify-content: flex-start;
   padding-left: 0.5%;
+  padding-top: 8px;
 }
 
 #logo {
@@ -267,6 +273,7 @@ h2 {
   align-items: center;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.18);
   color: rgba(247, 245, 243, 0.97);
+  text-transform: none;
 }
 
 /* Table styling */
