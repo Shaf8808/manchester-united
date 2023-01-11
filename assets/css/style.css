@@ -62,7 +62,7 @@ h2 {
   color: #3a3a3a;
 }
 
-#title {
+.title {
   display: flex;
   justify-content: flex-start;
   padding-left: 0.5%;
@@ -538,7 +538,7 @@ footer  {
     right: 16px;
   }
 
-  #title {
+  .title {
     display: none;
 
   }
