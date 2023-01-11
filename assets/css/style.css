@@ -407,6 +407,8 @@ th {
 .contact-logo {
   float: right;
   margin-top: 7rem;
+  width: 150px; 
+  height: 150px;
 }
 
 #contact-header {
@@ -430,12 +432,14 @@ form label {
   height: 20px;
   border-radius: 25px;
   font-size: 17px;
+  font-weight: bold;
 }
 
 .text-input-two  {
   width: 20%;
   height: 20px;
   font-size: 17px;
+  font-weight: bold;
 }
 
 
@@ -455,10 +459,6 @@ form label {
   color: #211f1f;
 }
 
-.submission-logo  {
-  height: 5rem;
-  width: 5rem;
-}
 
 /* Footer */
 
@@ -478,6 +478,27 @@ footer  {
   padding-top: 5px;
   font-size: 1.5rem;
   color: #211f1f;
+}
+
+/* Submission page */
+
+.submission-container  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(173, 11, 11);
+}
+
+.submission-container h2, 
+.submission-container h3  {
+  color: #110202;
+}
+
+.submission-logo  {
+  height: 5rem;
+  width: 5rem;
+  margin-top: 1rem;
 }
 
 /* Responsive design queries  */
@@ -605,6 +626,16 @@ padding-left: 18%;
 
   footer  {
     height: 2.5rem;
+  }
+
+  /* Submission page */
+
+  .submission-container  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
   }
 
 }
