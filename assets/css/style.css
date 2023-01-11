@@ -500,6 +500,8 @@ footer  {
 .submission-container h2, 
 .submission-container h3  {
   color: #110202;
+  font-size: 1rem;
+  font-size: 35px;
 }
 
 .submission-logo  {
