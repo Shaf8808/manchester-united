@@ -265,7 +265,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: #110202;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.18);
   color: rgba(247, 245, 243, 0.97);
 }
 
