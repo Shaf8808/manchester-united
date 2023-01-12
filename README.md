@@ -11,6 +11,8 @@ The ultimate goal and objective for my site is to entice and appeal to Mancheste
 
 Another goal for my website is to inform users and fans of the latest upcoming games that the club have yet to play in the season, giving the specigfic date of each fixture in a clearly organised tabular format. This is so that users know exactly what game the club are going to play next and when, so that they can make plans to watch the game beforehand. It also informs users of the games the club have already played in a colour coded format so it is easy and clear to read. This tells fans of how the club is currently performing in the season in a clear format.
 
+<img src="./assets/images/responsive-design.jpg" width=800 height=500>
+
 ### UX
 
 * Visually attractive to users
