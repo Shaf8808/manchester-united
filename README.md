@@ -1,5 +1,4 @@
-![logo!](./assets/images/manchester-united-logo.png)
-
+<img src="./assets/images/manchester-united-logo.png" width=75 height=75>
 
 
 # Manchester United 
