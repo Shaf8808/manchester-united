@@ -13,6 +13,35 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 
 <img src="./assets/images/responsive-design.jpg" width=900 height=500>
 
+## Table of content
+
+[UX](#ux)
+    + [User Stories](#user-stories)
+    + [Site owner’s objectives](#site-owner-s-objectives)
+    + [Requirements](#requirements)
+    + [Expectations](#expectations)
+  * [Design Choices](#design-choices)
+    + [Fonts](#fonts)
+    + [Icons](#icons)
+    + [Colours](#colours)
+    + [Structure](#structure)
+  * [Features](#features)
+    + [Existing Features](#existing-features)
+      - [**Header and logo**](#--header-and-logo--)
+      - [**Navigation Bar**](#--navigation-bar--)
+      - [**Desktop (min-width: …..px)**](#--desktop--min-width---px---)
+      - [**Small screens (min-width: …..px)**](#--small-screens--min-width---px---)
+  * [Sections](#sections)
+    + [**Home section**](#--home-section--)
+    + [**Fixtures and Results**](#--fixtures-and-results--)
+    + [**Player Focus**](#--player-focus--)
+    + [**Contact**](#--contact--)
+    + [**Footer**](#--footer--)
+  * [Technologies Used](#technologies-used)
+    + [Languages](#languages)
+    + [Libraries & Framework](#libraries---framework)
+    + [Tools](#tools)
+
 ### UX
 
 * Visually attractive to users
