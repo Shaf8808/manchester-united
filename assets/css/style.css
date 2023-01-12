@@ -557,6 +557,14 @@ footer  {
     height: 75px;
   }
 
+  /* Welcome section */
+
+  #welcome > p  {
+
+    padding-left: 18%;
+    padding-right: 18%;
+  }
+
   /* Table queries */
 
   table  {
