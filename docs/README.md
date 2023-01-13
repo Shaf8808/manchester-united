@@ -114,7 +114,7 @@ The structure that I have decided to go with is the name of the club, Manchester
 ### Existing Features
 
 #### **Header and logo**
-The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look and feeling to the section.
+The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look and feeling to the section. Both my header and logo are fixed to the navigation bar which users will always see and have access to at the top of the page as they scroll through the different sections of my website 
 
 <img src="./assets/images/header-and-logo.jpg" height='95'>
 
