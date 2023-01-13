@@ -87,10 +87,10 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 
 ### Fonts
 
-My main choice of font styles that I have decided to go with are Google Fonts. The reason why I have chosen this is due to the large library of professional font styles that I have access to for my website, as well as being able to combine and preview how different fonts would look when placed together as headings and paragraphs.
+My main choice of font styles that I have decided to go with are Oswald and Teko. These particular fonts have been carefully and meticulously selected as they are most relevent to my website and it's subject matter. I have selected these fonts from Google Fonts due to the large library of professional font styles that I have access to for my website, as well as being able to combine and preview how different fonts would look when placed together as headings and paragraphs.
 
 ### Icons
-I have also decided to implement icons within my website in order to make it seem more visually and aesthetically appealing to the user. This will add a little variety to the content of my site so the user is not overwhelmed with too much text and information, which may cause them to leave. These icons will be suitably styled in order to remain consistent with the style of the entire site. Icons will also be used for social media links. The icons I have decided to use are from Font Awesome.
+I have also decided to implement icons within my website in order to make it seem more visually and aesthetically appealing to the user. This will add a little variety to the content of my site so the user is not overwhelmed with too much text and information, which may cause them to leave. These icons will be suitably styled in order to remain consistent with the style of the entire site. The icons that I have utilised are for social media links that redirect the user to the relevent site such as Facebook, Instagram etc. These icons which I have decided to include within my site are taken from Font Awesome as they are both professional and free.
 
 ### Colours
 As my website is based on Manchester United, a real football club, it was important that my website contained a colour scheme that would match the club’s official colours, which is predominantly red, white and black. When users enter the site, they should have no doubt in their mind that they are in a website dedicated to Manchester United due to the colour scheme used throughout the site.
@@ -115,6 +115,10 @@ The structure that I have decided to go with is the name of the club, Manchester
 
 #### **Header and logo**
 The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look and feeling to the section.
+
+<img src="./assets/images/nav-bar.jpg">
+
+
 
 #### **Navigation Bar**
 The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Players and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
