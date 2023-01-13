@@ -119,16 +119,21 @@ The first element which I have decided to include is my main header, which is th
 <img src="./assets/images/header-and-logo.jpg" height='75'>
 
 #### **Navigation Bar**
-The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Players and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
+The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Player Focus and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
 
 <img src="./assets/images/nav-bar.jpg">
 
 
 #### **Desktop**
-On a normal desktop screen, the navigation bar is displayed as intended on the top right hand side of the screen, with all of the links visible to the user
+On a normal desktop screen, the navigation bar is displayed as intended on the top right hand side of the screen, with all of the links visible to the user. The first image displayed at the top of this document shows what my website looks like on all screen sizes, which demonstrates my website is responsive to the smallest of screens such as mobile devices, to the largest desktops.
 
 #### **Small screens**
-As the navigation bar would not be clearly visible to the user, it takes on a hamburger style on smaller screens such as mobile devices.
+As the navigation bar would not be clearly visible to the user, it takes on a hamburger style on smaller screens such as mobile devices. Once selected by the user, it opens up a navigation slide which contains a link to every section header of my website and named appropriately. This slide can be shown below:
+
+<img src="./assets/images/menu-slide.jpg" width='85' height='205'>
+
+
+
 When selected by the user, it redirects the user to a main menu which consists of each navigational link to each section of my website. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
 
 ## Sections
