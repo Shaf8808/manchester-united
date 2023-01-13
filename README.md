@@ -116,12 +116,12 @@ The structure that I have decided to go with is the name of the club, Manchester
 #### **Header and logo**
 The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look and feeling to the section.
 
-<img src="./assets/images/header-and-logo.jpg" height='75'>
+<img src="./assets/images/header-and-logo.jpg" height='95'>
 
 #### **Navigation Bar**
 The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Player Focus and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
 
-<img src="./assets/images/nav-bar.jpg">
+<img src="./assets/images/nav-bar.jpg" height='55'>
 
 
 #### **Desktop**
@@ -132,7 +132,11 @@ As the navigation bar would not be clearly visible to the user, it takes on a ha
 
 <img src="./assets/images/menu-slide.jpg" width='85' height='205'>
 
+This is what the user sees once they have clicked on the menu icon at the top right hand side of the screen. Once they select a particular link, however, that specific link displays a black background in order to inform the user which section of the website they are currently in, as shown below:
 
+<img src="./assets/images/menu-slide-selected.jpg" width='78' height='205'>
+
+After the user selects a section of the site they wish to navigate to, they are directed smoothly to that particular section with the header displayed clearly at the top of the page.
 
 When selected by the user, it redirects the user to a main menu which consists of each navigational link to each section of my website. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
 
