@@ -15,31 +15,31 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 
 ## Table of contents
 
-* [UX](#ux)
-* [User Stories](#user-stories)
-* [Site owners objectives](#site-owners-objectives)
-* [Requirements](#requirements)
-* [Expectations](#expectations)
-* [Design Choices](#design-choices)
+* [**UX**](#ux)
+* [**User Stories**](#user-stories)
+* [**Site owners objectives**](#site-owners-objectives)
+* [**Requirements**](#requirements)
+* [**Expectations**](#expectations)
+* [**Design Choices**](#design-choices)
     + [Fonts](#fonts)
     + [Icons](#icons)
     + [Colours](#colours)
     + [Structure](#structure)
-* [Features](#features)
+* [**Features**](#features)
     + [Existing Features](#existing-features)
-      - [**Header and logo**](#--header-and-logo--)
-      - [**Navigation Bar**](#--navigation-bar--)
-      - [**Desktop (min-width: …..px)**](#--desktop--min-width---px---)
-      - [**Small screens (min-width: …..px)**](#--small-screens--min-width---px---)
-  * [Sections](#sections)
-    + [**Home section**](#--home-section--)
-    + [**Fixtures and Results**](#--fixtures-and-results--)
-    + [**Player Focus**](#--player-focus--)
-    + [**Contact**](#--contact--)
-    + [**Footer**](#--footer--)
-  * [Technologies Used](#technologies-used)
+      - [Header and logo](#header-and-logo)
+      - [Navigation Bar](#navigation-bar)
+      - [Desktop (min-width: …..px)](#desktop)
+      - [Small screens (min-width: …..px)](#small-screens)
+* [**Sections**](#sections)
+    + [Home section](#home-section)
+    + [Fixtures and Results](#fixtures-and-results)
+    + [Player Focus](#player-focus)
+    + [Contact](#contact)
+    + [Footer](#footer)
+* [**Technologies Used**](#technologies-used)
     + [Languages](#languages)
-    + [Libraries & Framework](#libraries---framework)
+    + [Libraries & Framework](#libraries-and-framework)
     + [Tools](#tools)
 
 ### UX
@@ -120,10 +120,10 @@ The first element which I have decided to include is my main header, which is th
 The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Players and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
 
 
-#### **Desktop (min-width: …..px)**
+#### **Desktop**
 On a normal desktop screen, the navigation bar is displayed as intended on the top right hand side of the screen, with all of the links visible to the user
 
-#### **Small screens (min-width: …..px)**
+#### **Small screens**
 As the navigation bar would not be clearly visible to the user, it takes on a hamburger style on smaller screens such as mobile devices.
 When selected by the user, it redirects the user to a main menu which consists of each navigational link to each section of my website. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
 
@@ -159,7 +159,7 @@ The footer contains social media icons that redirects the user to the official s
 ### Languages
 *	HTML
 *	CSS
-### Libraries & Framework
+### Libraries and Framework
 *	Google Fonts
 *	Font Awesome library
 ### Tools
