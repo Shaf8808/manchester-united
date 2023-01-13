@@ -116,7 +116,7 @@ The structure that I have decided to go with is the name of the club, Manchester
 #### **Header and logo**
 The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look and feeling to the section.
 
-<img src="./assets/images/header-and-logo.jpg">
+<img src="./assets/images/header-and-logo.jpg" width=">
 
 #### **Navigation Bar**
 The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Players and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
