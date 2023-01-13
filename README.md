@@ -147,7 +147,7 @@ The home section consists of the banner shown below:
 
 The banner is both relevant and grabs the user’s attention. It clearly tells the user it is a Manchester United website, and fills in the space underneath my header and nav bar that would otherwise have remained empty. This improves the overall look and feel of my website, and adds to it's professionalism.
 
-Below the banner is a Welcome section which details what the website is and what the user can expect to find within it. It is a brief and useful introduction of my website which users will find helpful once they enter the site.
+Below the banner is a Welcome section which details what the website is and what the user can expect to find within it. It is a brief and useful introduction of my website which users will find helpful once they enter the site. It provides the user with a quick summary of each section of my website, as well as explains the colour coding system that I have implemented in my table shown in the "Fixtures and Results" section 
 
 ### **Fixtures and Results**
 This section includes information regarding the upcoming fixtures of Manchester United, as well as their recent results in previous games played in a tabular format. The reason why I have decided to include this is so that users are informed about how the club has performed recently in their last run of matches in a clear and structured way that makes it easy for users to view and understand without any confusion. The table that I have included also includes a colour code where every result which the club has won is displayed in green, while every loss is displayed in red.
