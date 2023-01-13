@@ -13,19 +13,19 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 
 <img src="./assets/images/responsive-design.jpg" width=900 height=500>
 
-## Table of content
+## Table of contents
 
 * [UX](#ux)
 * [User Stories](#user-stories)
-* [Site owner’s objectives](#site-owner-s-objectives)
+* [Site owners objectives](#site-owners-objectives)
 * [Requirements](#requirements)
 * [Expectations](#expectations)
-  * [Design Choices](#design-choices)
+* [Design Choices](#design-choices)
     + [Fonts](#fonts)
     + [Icons](#icons)
     + [Colours](#colours)
     + [Structure](#structure)
-  * [Features](#features)
+* [Features](#features)
     + [Existing Features](#existing-features)
       - [**Header and logo**](#--header-and-logo--)
       - [**Navigation Bar**](#--navigation-bar--)
@@ -60,7 +60,7 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 *	Users want information regarding upcoming fixtures
 *	Users want information regarding the club’s brightest young talents
 
-### Site owner’s objectives
+### Site owners objectives
 
 *	Promote the club
 *	Supply fans with valuable knowledge and insight into the club
