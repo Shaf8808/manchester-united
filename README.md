@@ -136,16 +136,16 @@ This is what the user sees once they have clicked on the menu icon at the top ri
 
 <img src="./assets/images/menu-slide-selected.jpg" width='78' height='205'>
 
-After the user selects a section of the site they wish to navigate to, they are directed smoothly to that particular section with the header displayed clearly at the top of the page.
-
-When selected by the user, it redirects the user to a main menu which consists of each navigational link to each section of my website. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
+After the user selects a section of the site they wish to navigate to, they are directed smoothly to that particular section with the header displayed clearly at the top of the page. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
 
 ## Sections
 
 ### **Home section**
 The home section consists of the banner shown below:
 
-The banner is both relevant and grabs the user’s attention. It clearly tells the user it is a Manchester United website. It also includes a zoom in and out animation in order to make the website seem more fun and interactive.
+<img src="./assets/images/hero-banner.jpg" height='95'>
+
+The banner is both relevant and grabs the user’s attention. It clearly tells the user it is a Manchester United website, and fills in the space underneath my header and nav bar that would otherwise have remained empty. This improves the overall look and feel of my website, and adds to it's professionalism.
 
 Below the banner is a Welcome section which details what the website is and what the user can expect to find within it. It is a brief and useful introduction of my website which users will find helpful once they enter the site.
 
