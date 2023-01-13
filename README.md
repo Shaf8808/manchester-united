@@ -15,11 +15,11 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 
 ## Table of content
 
-[UX](#ux)
-    + [User Stories](#user-stories)
-    + [Site owner’s objectives](#site-owner-s-objectives)
-    + [Requirements](#requirements)
-    + [Expectations](#expectations)
+* [UX](#ux)
+* [User Stories](#user-stories)
+* [Site owner’s objectives](#site-owner-s-objectives)
+* [Requirements](#requirements)
+* [Expectations](#expectations)
   * [Design Choices](#design-choices)
     + [Fonts](#fonts)
     + [Icons](#icons)
