@@ -152,7 +152,9 @@ Below the banner is a Welcome section which details what the website is and what
 <img src="./docs/images/welcome-section.jpg">
 
 ### **Fixtures and Results**
-This section includes information regarding the upcoming fixtures of Manchester United, as well as their recent results in previous games played in a tabular format. The reason why I have decided to include this is so that users are informed about how the club has performed recently in their last run of matches in a clear and structured way that makes it easy for users to view and understand without any confusion. The table that I have included also includes a colour code where every result which the club has won is displayed in green, while every loss is displayed in red.
+This section includes information regarding the upcoming fixtures of Manchester United, as well as their recent results in previous games played in a tabular format. The reason why I have decided to include this is so that users are informed about how the club has performed recently in their last run of matches in a clear and structured way that makes it easy for users to view and understand without any confusion. The table that I have included also includes a colour coded system where every result which the club has won is displayed in green, each loss is displayed in red and matches which they have drawn are in black. This table can be seen on the image below:
+
+<img src="./docs/images/fixtures-table.jpg">
 
 
 
