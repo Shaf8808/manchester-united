@@ -163,7 +163,11 @@ As the user hovers their cursor over the table, however, I have added a highligh
 
 
 ### **Player Focus**
-This is a section dedicated to one player from Manchester United. This includes a brief analysis of the way the player performs in a game as well as their key strengths and weaknesses that make them unique from the rest of the team. The reason why I have decided to include this section is to give the user a sense of connection to the club through it’s most exciting players, as well as retain their attention and engagement in the site. 
+This is a section dedicated to one player from Manchester United. This includes a brief introduction of the chosen player as well as their playing career history such as the previous clubs that they have played for and other important milestones in their career so far such as their debuts, transfers, international appearances etc. The reason why I have decided to include this section is to give the user a sense of connection to the club through it’s most exciting and fan favorite players, as well as retain their attention and engagement in the site.
+
+I have decided to include the image of my chosen player (Antony) in an oval format in order to make it seem more presentgable and appealing to the user. Once they hover over this image, I have included a zoom animation in order to make this image seem m ore interactive and responsive to the user's actions. the image can be displayed below:
+
+
 
 
 ### **Contact**
