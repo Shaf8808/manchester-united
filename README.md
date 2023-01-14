@@ -121,7 +121,7 @@ The first element which I have decided to include is my main header, which is th
 #### **Navigation Bar**
 The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Player Focus and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
 
-<img src="./docs/images/nav-bar.jpg" height='60' width='8000'>
+<img src="./docs/images/nav-bar.jpg">
 
 
 #### **Desktop**
