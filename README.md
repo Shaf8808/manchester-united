@@ -156,7 +156,9 @@ This section includes information regarding the upcoming fixtures of Manchester 
 
 <img src="./docs/images/fixtures-table.jpg" width='500' height='300'>
 
+As the user hovers their cursor over the table, however, I have added a highlight property to both the columns and rows of each section within my table. The reason as to why I have decided to implement this feature is to make it easier for users to focus on whichever section they are currently looking at and placing their mouse over. The image displayed below shows what my table looks like once a certain column and row is hovered over:
 
+<img src="./docs/images/fixtures-table-hover.jpg" width='500' height='300'>
 
 
 
