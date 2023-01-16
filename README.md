@@ -177,13 +177,13 @@ The Contact section contains a form where the user enters their personal details
 
 Once the user has successfully entered all of their correct details and click the approporiately styled submit button, they are redirected to a form submission page which simply thanks them for taking the time to fill out the form and that they will recieve a response shortly. Below that message, I have included a link in the form of the club's logo which will take the user back to my website. This page can be seen below:
 
-<img src="./docs/images/submission-page.jpg" height='300'>
+<img src="./docs/images/submission-page.jpg" height='300' width='1000'>
 
 
 ### **Footer**
 The footer of my website contains social media icons that redirects the user to their respective site such as Facebook or Twitter. These icons are suitable styled with an appropriate size and colour in order to match the overall style and layout of my website. They are also displayed on a red background that is synonymous and consistent with the rest of my site. This can be seen below:
 
-<img src="./docs/images/social-media-icons.jpg" height='40'>
+<img src="./docs/images/social-media-icons.jpg" height='30'>
 
 ## Technologies Used
 
