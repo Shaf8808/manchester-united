@@ -177,7 +177,7 @@ The Contact section contains a form where the user enters their personal details
 
 Once the user has successfully entered all of their correct details and click the approporiately styled submit button, they are redirected to a form submission page which simply thanks them for taking the time to fill out the form and that they will recieve a response shortly. Below that message, I have included a link in the form of the club's logo which will take the user back to my website. This page can be seen below:
 
-
+<img src="./docs/images/submission-page.jpg" height='300'>
 
 
 ### **Footer**
