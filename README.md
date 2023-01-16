@@ -163,11 +163,11 @@ As the user hovers their cursor over the table, however, I have added a highligh
 
 
 ### **Player Focus**
-This is a section dedicated to one player from Manchester United. This includes a brief introduction of the chosen player as well as their playing career history such as the previous clubs that they have played for and other important milestones in their career so far such as their debuts, transfers, international appearances etc. The reason why I have decided to include this section is to give the user a sense of connection to the club through it’s most exciting and fan favorite players, as well as retain their attention and engagement in the site.
+This is a section dedicated to one player from Manchester United. This includes a brief introduction of the chosen player as well as their playing career history such as the previous clubs that they have played for. Any other important milestones that they may have achieved throughout their career so far such as their debuts, transfers and international appearances have also been highlighted. The reason why I have decided to include this section is to give the user a sense of connection to the club through it’s most exciting and fan favorite players. It also provides additional knowledge and background of the chosen player including details which the user may not have been awware of previously. By focusing on one player, it attracts and retains their attention and engagement in the site, especially if it's a player which the user is very interested in or their personal favorite of the club.
 
-I have decided to include the image of my chosen player (Antony) in an oval format in order to make it seem more presentgable and appealing to the user. Once they hover over this image, I have included a zoom animation in order to make this image seem more interactive and responsive to the user's actions. the image can be displayed below:
+I have decided to include the image of my chosen player (Antony) in an oval format in order to make it seem more presentable and appealing to the user. Once they hover over this image, I have included a zoom animation in order to make this image seem more interactive and responsive to the user's actions. This image can be displayed below:
 
-
+<img src="./docs/images/player-focus.jpg" width='500' height='300'>
 
 
 ### **Contact**
