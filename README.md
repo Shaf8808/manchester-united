@@ -215,3 +215,31 @@ I did, of course, encounter some issues during the building of my website, such 
 * The table that I decided to include in my Fixtures section also had it's share of issues that I eventually overcame. I first had to come up with a way to display all of the data in a clear and presentable way. This is why I decided to use indented columns. Next, I needed to find a way for each row AND column to be highlighted depending on where the user hovered over. I used a simple hover pseudo class as well as z-index to make sure the correct row and column was highlighted. I then decided it looked better if the columns were highlighted one colour, and rows another to give it some form of seperation.
 
 * When it came to my player image, it was not too much of an issue except when trying to make it more responsive for smallewr devices. I realised that as I made my screen smaller, my image would have irregular positioning and would cause my banner to move to the left, leaving behind a huge blank space on the right. I managed to fix this however, after adjusting it's width and height properties as well as it's padding on either side, which seemed to be causing the issue.
+
+HTML validator results
+CSS validator results
+
+
+## Deployment
+
+Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+
+* Navigate to the repository on github and click 'Settings'.
+* Then select 'Pages' on the side navigation.
+* Select the 'None' dropdown, and then click 'master'.
+* Click on the 'Save' button.
+* The website is now live on https://shaf8808.github.io/manchester-united/
+* If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+## Credits
+
+For code help:
+
+* Simen Daehlin
+* Code Institute tutoring
+
+For content and style inspiration
+
+* Antony Wikipedia page
+* Manchester United website
+
