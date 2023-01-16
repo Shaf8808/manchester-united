@@ -183,7 +183,7 @@ Once the user has successfully entered all of their correct details and click th
 ### **Footer**
 The footer of my website contains social media icons that redirects the user to their respective site such as Facebook or Twitter. These icons are suitable styled with an appropriate size and colour in order to match the overall style and layout of my website. They are also displayed on a red background that is synonymous and consistent with the rest of my site. This can be seen below:
 
-
+<img src="./docs/images/social-media-icons.jpg">
 
 ## Technologies Used
 
