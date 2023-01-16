@@ -195,14 +195,17 @@ The footer of my website contains social media icons that redirects the user to 
 *	Font Awesome library
 ### Tools
 *	Gitpod
-*	Balsamic
 *	W3C HTML Validation Service
 *	W3C CSS Validation Service
-*	Bootstrap
-*	Colourmind
 *	Font Awesome library
 *	Google Fonts
-*	Unsplash
-*	Box Shadow Generator
+
+## Testing
+
+I am very proud of my website and feel that it has achieved all of the goals and objectives laid out at the very beginning of this project. It has a visually and aesthetically appealing layout and structure, and maintains that structure on different devices. Each section displayed within my site are spaced out appropriately so that it is clear to the user which part of my website they are currently in. My navigational bar works very well and has a fixed psition at the top of my page as the user scrolls down through the different sections on desktops. I am pleased with how my navigation slide works on smaller devices, as it is both easy to use and appropriately styled to match the layout of the rest of my website. Each time the user selects a link, they are navigated to the correct section in a smooth way in order to seem easier on the eye and not make it seem too jarring and abrupt.   
+
+I did, of course, encounter some issues during the building of my website, such as:
+
+* I made, I am told a common mistake of building my website to be desktop-friendly first rather than mobile. This made the process a lot more unnessasarily difficult. The reason for this is because it is a lot harder to compress a website and all of it's images rather than to expand them. As such, I had to spend a lot of time and effort making sure it looked presentable and professional on mobile devices. The navigational bar was a big problem as when I decreased the size of my screen, it would become all jumbled and impossible to read. This is why I decided to go with the hamburger style bar, which I believe works well
 
 
