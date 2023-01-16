@@ -171,7 +171,13 @@ I have decided to include the image of my chosen player (Antony) in an oval form
 
 
 ### **Contact**
-The Contact section contains a form where the user enters their personal details such as their name and email address if they wish to get in touch with the provider. 
+The Contact section contains a form where the user enters their personal details such as their name and email address if they wish to get in touch with the provider. The structure of the form that I have decided to go with is a vertical format, where the user must enter their first name, last name, a suitable email address and an additional message that they may wish to convey regarding the website. The reason why I have decided to go with this format is beacause it is clear and easy for users to understand and enter their correct details. It is also quick to fill out and complete, which may encourage users to engage with the form as opposed to a form which requires many details and is more time consuming. My form that I have built for my website can be seen below:
+
+<img src="./docs/images/contact-form.jpg" height='300'>
+
+Once the user has successfully entered all of their correct details and click the approporiately styled submit button, they are redirected to a form submission page which simply thanks them for taking the time to fill out the form and that they will recieve a response shortly. Below that message, I have included a link in the form of the club's logo which will take the user back to my website. This page can be seen below:
+
+
 
 
 ### **Footer**
