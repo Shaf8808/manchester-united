@@ -28,7 +28,7 @@ html {
 
 body {
 
-  font-family: Oswald, sans-serif;
+  font-family: 'Oswald', sans-serif;
   color: #3a3a3a;
   font-size: larger;
   font-weight: 300;
@@ -48,7 +48,7 @@ body {
 
 h1 {
 
-  font-family: Teko, sans-serif;
+  font-family: 'Teko', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: rgba(247, 245, 243, 0.97);
@@ -56,7 +56,7 @@ h1 {
 
 h2 {
 
-  font-family: Teko, sans-serif;
+  font-family: 'Teko', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: rgba(247, 245, 243, 0.97);
