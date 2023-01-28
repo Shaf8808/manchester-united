@@ -29,8 +29,8 @@ Another goal for my website is to inform users and fans of the latest upcoming g
     + [Existing Features](#existing-features)
       - [Header and logo](#header-and-logo)
       - [Navigation Bar](#navigation-bar)
-      - [Desktop (min-width: …..px)](#desktop)
-      - [Small screens (min-width: …..px)](#small-screens)
+      - [Desktop](#desktop)
+      - [Small screens](#small-screens)
 * [**Sections**](#sections)
     + [Home section](#home-section)
     + [Fixtures and Results](#fixtures-and-results)
@@ -98,11 +98,11 @@ As my website is based on Manchester United, a real football club, it was import
 Therefore I have decided to use the three main colours of the club, red, white and black throughout my website consistently. This is so that it matches the club that it represents accurately and aesthetically. 
 
 
-<u>**Red**</u>- This will be used as the banner at the top of each section as it is the primary colour of the club
+<u>**rgb(173, 11, 11)**</u>- This will be used as the banner at the top of each section as it is the primary colour of the club
 
-<u>**White**</u>- This colour will used for Headings and text on a red background in order to make it clear and easy to read for the user
+<u>**rgba(247, 245, 243, 0.97)**</u>- This colour will used for Headings and text on a red background in order to make it clear and easy to read for the user
 
-<u>**Black**</u>- This colour will be used for the main body of text on a normal white background
+<u>**#211f1f**</u>- This colour will be used for the main body of text on a normal white background, as well as the background for my contact section.
 
 ### Structure
 It is vital that the structure of my website has a level of consistency within it when presented to the user. Every professional website has a structural consistency that is evident throughout each section. The main body and content of each section may be different, but the overall and underlying structure of the site such as the placement of banners and the navigation bar must remain the same. This will make my website seem more appealing and professional to the user, and give the impression of a sophisticated site.
@@ -214,9 +214,10 @@ I did, of course, encounter some issues during the building of my website, such 
 
 * The table that I decided to include in my Fixtures section also had it's share of issues that I eventually overcame. I first had to come up with a way to display all of the data in a clear and presentable way. This is why I decided to use indented columns. Next, I needed to find a way for each row AND column to be highlighted depending on where the user hovered over. I used a simple hover pseudo class as well as z-index to make sure the correct row and column was highlighted. I then decided it looked better if the columns were highlighted one colour, and rows another to give it some form of seperation.
 
-* When it came to my player image, it was not too much of an issue except when trying to make it more responsive for smallewr devices. I realised that as I made my screen smaller, my image would have irregular positioning and would cause my banner to move to the left, leaving behind a huge blank space on the right. I managed to fix this however, after adjusting it's width and height properties as well as it's padding on either side, which seemed to be causing the issue.
+* When it came to my player image, it was not too much of an issue except when trying to make it more responsive for smaller devices. I realised that as I made my screen smaller, my image would have irregular positioning and would cause my banner to move to the left, leaving behind a huge blank space on the right. I managed to fix this however, after adjusting it's width and height properties as well as it's padding on either side, which seemed to be causing the issue.
 
-HTML validator results
+HTML validator [results](./docs/images/html-validator.jpg)
+
 CSS validator results
 
 
