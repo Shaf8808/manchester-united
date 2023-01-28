@@ -443,6 +443,7 @@ form label {
   border-radius: 25px;
   font-size: 17px;
   font-weight: bold;
+  padding-left: 8px;
 }
 
 .text-input-two  {
@@ -450,6 +451,7 @@ form label {
   height: 20px;
   font-size: 17px;
   font-weight: bold;
+  padding-left: 8px;
 }
 
 
