@@ -83,6 +83,8 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 * I expect all links to social media sites to be opened in a new tab
 * I expect the information provided to be both accurate and relevant to the club
 
+[Back to top](#table-of-contents)
+
 ## Design Choices
 
 ### Fonts
@@ -108,6 +110,8 @@ Therefore I have decided to use the three main colours of the club, red, white a
 It is vital that the structure of my website has a level of consistency within it when presented to the user. Every professional website has a structural consistency that is evident throughout each section. The main body and content of each section may be different, but the overall and underlying structure of the site such as the placement of banners and the navigation bar must remain the same. This will make my website seem more appealing and professional to the user, and give the impression of a sophisticated site.
 
 The structure that I have decided to go with is the name of the club, Manchester United displayed on the top left hand corner along with the badge. The navigation bar is displayed on the opposite side at the top of each section to retain that consistency throughout. I have then decided to include a banner with an appropriate image below the nav bar that has a zoom in and out effect applied. These elements are consistent throughout my whole website regardless of the content shown below them.
+
+[Back to top](#table-of-contents)
 
 ## Features
 
@@ -137,6 +141,8 @@ This is what the user sees once they have clicked on the menu icon at the top ri
 <img src="./docs/images/menu-slide-selected.jpg" width='78' height='205'>
 
 After the user selects a section of the site they wish to navigate to, they are directed smoothly to that particular section with the header displayed clearly at the top of the page. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
+
+[Back to top](#table-of-contents)
 
 ## Sections
 
@@ -185,6 +191,9 @@ The footer of my website contains social media icons that redirects the user to 
 
 <img src="./docs/images/social-media-icons.jpg" height='30'>
 
+[Back to top](#table-of-contents)
+
+
 ## Technologies Used
 
 ### Languages
@@ -199,6 +208,8 @@ The footer of my website contains social media icons that redirects the user to 
 *	W3C CSS Validation Service
 *	Font Awesome library
 *	Google Fonts
+
+[Back to top](#table-of-contents)
 
 ## Testing
 
@@ -220,6 +231,8 @@ HTML validator [results](./docs/images/html-validator.jpg)
 
 CSS validator [results](./docs/images/css-validator.jpg)
 
+[Back to top](#table-of-contents)
+
 
 ## Deployment
 
@@ -232,6 +245,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 * The website is now live on https://shaf8808.github.io/manchester-united/
 * If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
 
+
 ## Credits
 
 For code help:
@@ -243,4 +257,6 @@ For content and style inspiration
 
 * [Antony Wikipedia page](https://en.wikipedia.org/wiki/Antony_(footballer,_born_2000)) 
 * [Manchester United website](https://www.manutd.com/en)
+
+[Back to top](#table-of-contents)
 
