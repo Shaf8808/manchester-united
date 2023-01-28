@@ -235,11 +235,11 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 For code help:
 
-* Simen Daehlin
+* [Simen Daehlin](https://github.com/Eventyret)
 * Code Institute tutoring
 
 For content and style inspiration
 
-* Antony Wikipedia page
-* Manchester United website
+* [Antony Wikipedia page](https://en.wikipedia.org/wiki/Antony_(footballer,_born_2000)) 
+* [Manchester United website](https://www.manutd.com/en)
 
