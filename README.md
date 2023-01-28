@@ -218,7 +218,7 @@ I did, of course, encounter some issues during the building of my website, such 
 
 HTML validator [results](./docs/images/html-validator.jpg)
 
-CSS validator results
+CSS validator [results](./docs/images/css-validator.jpg)
 
 
 ## Deployment
