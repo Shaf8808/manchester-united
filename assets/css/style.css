@@ -274,14 +274,16 @@ h2 {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.18);
   color: rgba(247, 245, 243, 0.97);
   text-transform: none;
+
+  transition: transform 1s ease;
+  overflow: hidden;
 }
+
+
 
 .section-heading:hover  {
 
-  animation-name: player-zoom;
-  animation-duration: 3s;
-  animation-fill-mode: forwards;
-
+  transform: scale(1.1);
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.18),
   0 10px 10px rgba(0, 0, 0, 0.18);
 
@@ -387,27 +389,13 @@ th {
   background: url(../images/player-image.jpg) no-repeat center top;
   height: 100%;
   border-radius: 50%;
+  transition: transform 1s ease;
+  overflow: hidden;
 }
 
 #circle-cover-bg:hover {
-
-  animation-name: player-zoom;
-  animation-duration: 3s;
-  animation-fill-mode: forwards;
-
-}
-
-@keyframes player-zoom {
-
-  0% {
-    transform: scale(1);
+  transform: scale(1.1);
   }
-
-  100% {
-    transform: scale(1.1);
-  }
-
-}
 
 #player-name {
   display: flex;
@@ -615,24 +603,8 @@ padding-left: 18%;
   }
 
   #circle-cover-bg:hover {
-
-    animation-name: player-zoom;
-    animation-duration: 3s;
-    animation-fill-mode: forwards;
-  
-  }
-  
-  @keyframes player-zoom {
-  
-    0% {
-      transform: scale(1);
-    }
-  
-    100% {
       transform: scale(1.2);
     }
-  
-  }
 
   /*  Contact Section */
 
