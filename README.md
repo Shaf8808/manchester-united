@@ -28,6 +28,7 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 * [**Features**](#features)
     + [Existing Features](#existing-features)
       - [Header and logo](#header-and-logo)
+      - [Section Headers](#section-headers)
       - [Navigation Bar](#navigation-bar)
       - [Desktop](#desktop)
       - [Small screens](#small-screens)
@@ -124,6 +125,13 @@ The structure that I have decided to go with is the name of the club, Manchester
 The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look and feeling to the section. Both my header and logo are fixed to the navigation bar which users will always see and have access to at the top of the page as they scroll through the different sections of my website 
 
 <img src="./docs/images/header-and-logo.jpg" height='95'>
+
+#### **Section Headers**
+
+I have decided to position my headers for each of my included sections at the top in the center. The reason I have done this is because the header of each of my section within my website is the first thing that the user sees as they navigate through, so it needs to be both visually appealing and catch their attention as soon as they enter the site. The styling which I have used for all of my section headers are consistent through the website in order to maintain organisation and professionalism. As the user hovers over the header, it expands and increases the box shadow in order to highlight the element and give my website a greater sense of interactivity. Once the user hovers away from the header, it smoothly transitions back to it's original shape and size. The styling of my headers can be seen below:
+
+<img src="./docs/images/section-header.jpg" height='95'>
+
 
 #### **Navigation Bar**
 The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Player Focus and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
