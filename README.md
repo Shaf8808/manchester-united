@@ -41,6 +41,9 @@ Another goal for my website is to inform users and fans of the latest upcoming g
     + [Languages](#languages)
     + [Libraries & Framework](#libraries-and-framework)
     + [Tools](#tools)
+* [**Testing**](#testing)
+* [**Deployment**](#deployment)
+* [**Credits**](#credits)
 
 ### UX
 
