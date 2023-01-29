@@ -247,7 +247,9 @@ I did, of course, encounter some issues during the building of my website, such 
 
 I ran my website through a lighthouse test to see how it performed on both desktop as well as mobile devices for performance, accessibility and best practices. The results I got back were very positive for all three, which I was very happy with. These can be seen in the images below, with the first showcasing the results for desktop and the second for mobile devices:
 
+<img src="./docs/images/lighthouse-results.jpg">
 
+<img src="./docs/images/lighthouse-results-mobile.jpg">
 
 
 HTML validator [results](./docs/images/html-validator.jpg)
