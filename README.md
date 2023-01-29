@@ -94,15 +94,15 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 
 ### Fonts
 
-My main choice of font styles that I have decided to go with are Oswald and Teko. These particular fonts have been carefully and meticulously selected as they are most relevent to my website and it's subject matter. I have selected these fonts from Google Fonts due to the large library of professional font styles that I have access to for my website, as well as being able to combine and preview how different fonts would look when placed together as headings and paragraphs.
+The main choice of font styles that I have decided to go with is Oswald and Teko. These particular fonts have been carefully and meticulously selected as they are most relevant to my website and its subject matter. I have selected these fonts from Google Fonts due to the large library of professional font styles that I have access to for my website, as well as being able to combine and preview how different fonts would look when placed together as headings and paragraphs.
 
 ### Icons
-I have also decided to implement icons within my website in order to make it seem more visually and aesthetically appealing to the user. This will add a little variety to the content of my site so the user is not overwhelmed with too much text and information, which may cause them to leave. These icons will be suitably styled in order to remain consistent with the style of the entire site. The icons that I have utilised are for social media links that redirect the user to the relevent site such as Facebook, Instagram etc. These icons which I have decided to include within my site are taken from Font Awesome as they are both professional and free.
+I have also decided to implement icons within my website to make it seem more visually and aesthetically appealing to the user. This will add a little variety to the content of my site so the user is not overwhelmed with too much text and information, which may cause them to leave. These icons will be suitably styled to remain consistent with the style of the entire site. The icons that I have utilized are for social media links that redirect the user to the relevant site such as Facebook, Instagram etc. These icons which I have decided to include within my site are taken from Font Awesome as they are both professional and free.
 
 ### Colours
-As my website is based on Manchester United, a real football club, it was important that my website contained a colour scheme that would match the club’s official colours, which is predominantly red, white and black. When users enter the site, they should have no doubt in their mind that they are in a website dedicated to Manchester United due to the colour scheme used throughout the site.
+As my website is based on Manchester United, a real football club, my website needed to contain a colour scheme that would match the club’s official colours, which are predominantly red, white and black. When users enter the site, they should have no doubt in their mind that they are on a website dedicated to Manchester United due to the colour scheme used throughout the site.
 
-Therefore I have decided to use the three main colours of the club, red, white and black throughout my website consistently. This is so that it matches the club that it represents accurately and aesthetically. 
+Therefore I have decided to use the three main colours of the club, red, white and black throughout my website consistently. This is so that it matches the club that it represents accurately and aesthetically.
 
 
 <u>**rgb(173, 11, 11)**</u>- This will be used as the banner at the top of each section as it is the primary colour of the club
@@ -112,9 +112,10 @@ Therefore I have decided to use the three main colours of the club, red, white a
 <u>**#211f1f**</u>- This colour will be used for the main body of text on a normal white background, as well as the background for my contact section.
 
 ### Structure
-It is vital that the structure of my website has a level of consistency within it when presented to the user. Every professional website has a structural consistency that is evident throughout each section. The main body and content of each section may be different, but the overall and underlying structure of the site such as the placement of banners and the navigation bar must remain the same. This will make my website seem more appealing and professional to the user, and give the impression of a sophisticated site.
+The structure of my website must have a level of consistency within it when presented to the user. Every professional website has a structural consistency that is evident throughout each section. The main body and content of each section may be different, but the overall and underlying structure of the site such as the placement of banners and the navigation bar must remain the same. This will make my website seem more appealing and professional to the user, and give the impression of a sophisticated site.
 
-The structure that I have decided to go with is the name of the club, Manchester United displayed on the top left hand corner along with the badge. The navigation bar is displayed on the opposite side at the top of each section to retain that consistency throughout. I have then decided to include a banner with an appropriate image below the nav bar that has a zoom in and out effect applied. These elements are consistent throughout my whole website regardless of the content shown below them.
+
+The structure that I have decided to go with is the name of the club, Manchester United displayed on the top left-hand corner along with the badge. The navigation bar is displayed on the opposite side at the top of each section to retain that consistency throughout. I have then decided to include a banner with an appropriate image below the nav bar that has a zoom-in and out effect applied. These elements are consistent throughout my whole website regardless of the content shown below them.
 
 [Back to top](#table-of-contents)
 
