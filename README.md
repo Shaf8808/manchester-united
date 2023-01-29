@@ -10,7 +10,7 @@ Welcome to my Manchester United Fan site. This site contains all things Manchest
 
 The ultimate goal and objective for my site are to entice and appeal to Manchester United fans to engage with the website through its professional and attractive presentation. Therefore, I needed to ensure that the overall layout of my website looked appealing as well as user-friendly. That means that the information presented is displayed both clearly and objectively in a way that is easy to digest.
 
-Another goal for my website is to inform users and fans of the latest upcoming games that the club has yet to play in the season, giving the specific date of each fixture in an organized tabular format. This is so that users know exactly what game the club is going to play next and when they are going to play it to make plans to watch the game beforehand. It also informs users of the games the club has already played in a color-coded format so it is easy and clear to read. This tells fans how the club is currently performing in the season in a clear format.
+Another goal for my website is to inform users and fans of the latest upcoming games that the club has yet to play in the season, giving the specific date of each fixture in an organized tabular format. This is so that users know exactly what game the club is going to play next and when they are going to play it to make plans to watch the game beforehand. It also informs users of the games the club has already played in a colour-coded format so it is easy and clear to read. This tells fans how the club is currently performing in the season in a clear format.
 
 <img src="./docs/images/responsive-design.jpg" width=900 height=500>
 
@@ -107,7 +107,7 @@ Therefore I have decided to use the three main colours of the club, red, white a
 
 <u>**rgb(173, 11, 11)**</u>- This will be used as the banner at the top of each section as it is the primary colour of the club
 
-<u>**rgba(247, 245, 243, 0.97)**</u>- This colour will used for Headings and text on a red background in order to make it clear and easy to read for the user
+<u>**rgba(247, 245, 243, 0.97)**</u>- This colour will be used for headings and text on a red background to make it clear and easy to read for the user
 
 <u>**#211f1f**</u>- This colour will be used for the main body of text on a normal white background, as well as the background for my contact section.
 
