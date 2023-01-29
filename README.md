@@ -167,43 +167,44 @@ The home section consists of the banner shown below:
 
 <img src="./docs/images/hero-banner.jpg" height='95'>
 
-The banner is both relevant and grabs the user’s attention. It clearly tells the user it is a Manchester United website, and fills in the space underneath my header and nav bar that would otherwise have remained empty. This improves the overall look and feel of my website, and adds to it's professionalism.
+The banner is both relevant and grabs the user’s attention. It tells the user it is a Manchester United website and fills in the space underneath my header and nav bar that would otherwise have remained empty. This improves the overall look and feel of my website and adds to its professionalism.
 
-Below the banner is a Welcome section which details what the website is and what the user can expect to find within it. It is a brief and useful introduction of my website which users will find helpful once they enter the site. It provides the user with a quick summary of each section of my website, as well as explains the colour coding system that I have implemented in my table shown in the "Fixtures and Results" section. This section can be seen below:
+Below the banner is a Welcome section which details what the website is and what the user can expect to find within it. It is a brief and useful introduction to my website which users will find helpful once they enter the site. It provides the user with a quick summary of each section of my website, as well as explains the colour coding system that I have implemented in my table shown in the "Fixtures and Results" section. This section can be seen below:
+
 
 <img src="./docs/images/welcome-section.jpg">
 
 ### **Fixtures and Results**
-This section includes information regarding the upcoming fixtures of Manchester United, as well as their recent results in previous games played in a tabular format. The reason why I have decided to include this is so that users are informed about how the club has performed recently in their last run of matches in a clear and structured way that makes it easy for users to view and understand without any confusion. The table that I have included also includes a colour coded system where every result which the club has won is displayed in green, each loss is displayed in red and matches which they have drawn are in black. This table can be seen on the image below:
+This section includes information regarding the upcoming fixtures of Manchester United, as well as their recent results in previous games played in a tabular format. The reason why I have decided to include this is so that users are informed about how the club has performed recently in their last run of matches in a clear and structured way that makes it easy for users to view and understand without any confusion. The table that I have included also includes a colour-coded system where every result that the club has won is displayed in green, each loss is displayed in red and matches which they have drawn are in black. This table can be seen in the image below:
 
 <img src="./docs/images/fixtures-table.jpg" width='500' height='300'>
 
-As the user hovers their cursor over the table, however, I have added a highlight property to both the columns and rows of each section within my table. The reason as to why I have decided to implement this feature is to make it easier for users to focus on whichever section they are currently looking at and placing their mouse over. The image displayed below shows what my table looks like once a certain column and row is hovered over:
+As the user hovers their cursor over the table, however, I have added a highlight property to both the columns and rows of each section within my table. The reason why I have decided to implement this feature is to make it easier for users to focus on whichever section they are currently looking at and place their mouse over. The image displayed below shows what my table looks like once a certain column and row is hovered over:
 
 <img src="./docs/images/fixtures-table-hover.jpg" width='500' height='300'>
 
 
 
 ### **Player Focus**
-This is a section dedicated to one player from Manchester United. This includes a brief introduction of the chosen player as well as their playing career history such as the previous clubs that they have played for. Any other important milestones that they may have achieved throughout their career so far such as their debuts, transfers and international appearances have also been highlighted. The reason why I have decided to include this section is to give the user a sense of connection to the club through it’s most exciting and fan favorite players. It also provides additional knowledge and background of the chosen player including details which the user may not have been awware of previously. By focusing on one player, it attracts and retains their attention and engagement in the site, especially if it's a player which the user is very interested in or their personal favorite of the club.
+This is a section dedicated to one player from Manchester United. This includes a brief introduction of the chosen player as well as their playing career history such as the previous clubs that they have played for. Any other important milestones that they may have achieved throughout their career so far such as their debuts, transfers and international appearances have also been highlighted. The reason why I have decided to include this section is to give the user a sense of connection to the club through its most exciting and fan-favourite players. It also provides additional knowledge and background of the chosen player including details that the user may not have been aware of previously. By focusing on one player, it attracts and retains their attention and engagement in the site, especially if it's a player in which the user is very interested or their personal favourite of the club.
 
-I have decided to include the image of my chosen player (Antony) in an oval format in order to make it seem more presentable and appealing to the user. Once they hover over this image, I have included a zoom animation in order to make this image seem more interactive and responsive to the user's actions. This image can be displayed below:
+I have decided to include the image of my chosen player (Antony) in an oval format to make it seem more presentable and appealing to the user. Once they hover over this image, I have included a zoom animation to make this image seem more interactive and responsive to the user's actions. This image can be displayed below:
 
 <img src="./docs/images/player-focus.jpg" width='500' height='300'>
 
 
 ### **Contact**
-The Contact section contains a form where the user enters their personal details such as their name and email address if they wish to get in touch with the provider. The structure of the form that I have decided to go with is a vertical format, where the user must enter their first name, last name, a suitable email address and an additional message that they may wish to convey regarding the website. The reason why I have decided to go with this format is beacause it is clear and easy for users to understand and enter their correct details. It is also quick to fill out and complete, which may encourage users to engage with the form as opposed to a form which requires many details and is more time consuming. My form that I have built for my website can be seen below:
+The Contact section contains a form where the user enters their details such as their name and email address if they wish to get in touch with the provider. The structure of the form that I have decided to go with is a vertical format, where the user must enter their first name, last name, a suitable email address and an additional message that they may wish to convey regarding the website. The reason why I have decided to go with this format is that it is clear and easy for users to understand and enter their correct details. It is also quick to fill out and complete, which may encourage users to engage with the form as opposed to a form which requires many details and is more time-consuming. The form that I have built for my website can be seen below:
 
 <img src="./docs/images/contact-form.jpg">
 
-Once the user has successfully entered all of their correct details and click the approporiately styled submit button, they are redirected to a form submission page which simply thanks them for taking the time to fill out the form and that they will recieve a response shortly. Below that message, I have included a link in the form of the club's logo which will take the user back to my website. This page can be seen below:
+Once the user has successfully entered all of their correct details and clicked the appropriately styled submit button, they are redirected to a form submission page that simply thanks them for taking the time to fill out the form and that they will receive a response shortly. Below that message, I have included a link in the form of the club's logo which will take the user back to my website. This page can be seen below:
 
 <img src="./docs/images/submission-page.jpg" height='300' width='1000'>
 
 
 ### **Footer**
-The footer of my website contains social media icons that redirects the user to their respective site such as Facebook or Twitter. These icons are suitable styled with an appropriate size and colour in order to match the overall style and layout of my website. They are also displayed on a red background that is synonymous and consistent with the rest of my site. This can be seen below:
+The footer of my website contains social media icons that redirect the user to their respective sites such as Facebook or Twitter. These icons are suitable and styled with an appropriate size and colour to match the overall style and layout of my website. They are also displayed on a red background that is synonymous and consistent with the rest of my site. This can be seen below:
 
 <img src="./docs/images/social-media-icons.jpg" height='30'>
 
