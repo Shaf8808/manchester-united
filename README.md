@@ -255,14 +255,14 @@ CSS validator [results](./docs/images/css-validator.jpg)
 
 ## Deployment
 
-Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+Following writing the code and then committing and pushing to GitHub, this project was deployed using GitHub by the following steps.
 
-* Navigate to the repository on github and click 'Settings'.
+* Navigate to the repository on Github and click 'Settings'.
 * Then select 'Pages' on the side navigation.
 * Select the 'None' dropdown, and then click 'master'.
 * Click on the 'Save' button.
 * The website is now live on https://shaf8808.github.io/manchester-united/
-* If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+* If any changes are required, they can be done, committed and pushed to GitHub and the changes will be updated.
 
 
 ## Credits
