@@ -245,6 +245,10 @@ I did, of course, encounter some issues during the building of my website, such 
 
 * When it came to my player image, it was not too much of an issue except when trying to make it more responsive for smaller devices. I realised that as I made my screen smaller, my image would have irregular positioning and would cause my banner to move to the left, leaving behind a huge blank space on the right. I managed to fix this, however, after adjusting its width and height properties as well as its padding on either side, which seemed to be causing the issue.
 
+I ran my website through a lighthouse test to see how it performed on both desktop as well as mobile devices for performance, accessibility and best practices. The results I got back were very positive for all three, which I was very happy with. These can be seen in the images below, with the first showcasing the results for desktop and the second for mobile devices:
+
+
+
 
 HTML validator [results](./docs/images/html-validator.jpg)
 
