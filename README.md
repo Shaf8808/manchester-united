@@ -124,36 +124,39 @@ The structure that I have decided to go with is the name of the club, Manchester
 ### Existing Features
 
 #### **Header and logo**
-The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look and feeling to the section. Both my header and logo are fixed to the navigation bar which users will always see and have access to at the top of the page as they scroll through the different sections of my website 
+The first element which I have decided to include is my main header, which is the club’s name Manchester United. The font I have decided to go with is Teko, as it is both appropriate and professional. I have also decided to include the official logo of the club as it reinforces the title of the site and provides an official look to the section. Both my header and logo are fixed to the navigation bar which users will always see and have access to at the top of the page as they scroll through the different sections of my website.
 
 <img src="./docs/images/header-and-logo.jpg" height='95'>
 
 #### **Section Headers**
 
-I have decided to position my headers for each of my included sections at the top in the center. The reason I have done this is because the header of each of my section within my website is the first thing that the user sees as they navigate through, so it needs to be both visually appealing and catch their attention as soon as they enter the site. The styling which I have used for all of my section headers are consistent through the website in order to maintain organisation and professionalism. As the user hovers over the header, it expands and increases the box shadow in order to highlight the element and give my website a greater sense of interactivity. Once the user hovers away from the header, it smoothly transitions back to it's original shape and size. The styling of my headers can be seen below:
+I have decided to position my headers for each of my included sections at the top in the centre. The header of each of my sections within my website is the first thing that the user sees as they navigate through, so it needs to be both visually appealing and catch their attention as soon as they enter the site. The styling which I have used for all of my section headers is consistent throughout the website to maintain organisation and professionalism. As the user hovers over the header, it expands and increases the box shadow to highlight the element and give my website a greater sense of interactivity. Once the user hovers away from the header, it smoothly transitions back to its original shape and size. The styling of my headers can be seen below:
+
 
 <img src="./docs/images/section-header.jpg" height='95'>
 
 
 #### **Navigation Bar**
-The navigation bar is displayed at the top right, and consists of the home section, Fixtures and Results, Player Focus and Contact section. It was important that my navigation bar is responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link in order to increase visibility and clarity on which section they will enter once selected.
+The navigation bar is displayed at the top right and consists of the home section, Fixtures and Results, Player Focus and Contact section. My navigation bar needed to be responsive, easy to use and works as intended across multiple devices regardless of the screen size. I have also styled each link appropriately so that they are underlined each time the user hovers over a link to increase visibility and clarity on which section they will enter once selected.
+
 
 <img src="./docs/images/nav-bar.jpg">
 
 
 #### **Desktop**
-On a normal desktop screen, the navigation bar is displayed as intended on the top right hand side of the screen, with all of the links visible to the user. The first image displayed at the top of this document shows what my website looks like on all screen sizes, which demonstrates my website is responsive to the smallest of screens such as mobile devices, to the largest desktops.
+On a normal desktop screen, the navigation bar is displayed as intended on the top right-hand side of the screen, with all of the links visible to the user. The first image displayed at the top of this document shows what my website looks like on all screen sizes, which demonstrates my website is responsive to the smallest of screens such as mobile devices, to the largest desktops.
 
 #### **Small screens**
-As the navigation bar would not be clearly visible to the user, it takes on a hamburger style on smaller screens such as mobile devices. Once selected by the user, it opens up a navigation slide which contains a link to every section header of my website and named appropriately. This slide can be shown below:
+As the navigation bar would not be visible to the user, it takes on a hamburger style on smaller screens such as mobile devices. Once selected by the user, it opens up a navigation slide which contains a link to every section header of my website and is named appropriately. This slide can be shown below:
 
 <img src="./docs/images/menu-slide.jpg" width='85' height='205'>
 
-This is what the user sees once they have clicked on the menu icon at the top right hand side of the screen. Once they select a particular link, however, that specific link displays a black background in order to inform the user which section of the website they are currently in, as shown below:
+This is what the user sees once they have clicked on the menu icon at the top right-hand side of the screen. Once they select a particular link, however, that specific link displays a black background to inform the user which section of the website they are currently in, as shown below:
+
 
 <img src="./docs/images/menu-slide-selected.jpg" width='78' height='205'>
 
-After the user selects a section of the site they wish to navigate to, they are directed smoothly to that particular section with the header displayed clearly at the top of the page. This was done in order to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
+After the user selects a section of the site they wish to navigate to, they are directed smoothly to that particular section with the header displayed clearly at the top of the page. This was done to make it easier for users using a mobile device to navigate through my website without compromising the structural integrity and squeezing my navigational bar, which would make my site look cramped and unprofessional.
 
 [Back to top](#table-of-contents)
 
