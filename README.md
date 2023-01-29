@@ -3,13 +3,14 @@
 
 # Manchester United 
 
-Welcome to my Manchester United Fan site. This site contains all things Manchester United from player information to upcoming fixtures in the current Premier League season. This site informs users of the latest happenings around the club, and also gives an insight on the brightest young talents from within the club.
+Welcome to my Manchester United Fan site. This site contains all things Manchester United from player information to upcoming fixtures in the current Premier League season. This site informs users of the latest happenings around the club and gives insight into the brightest young talents from within the club.
+
 
 ## Goals and objectives
 
-The ultimate goal and objective for my site is to entice and appeal to Manchester United fans to engage with the website through it's professional and attractive presentation. Therefore, it was critical for me to ensure that the overall layout of my website looked appealing as well as user-friendly. That means that the information presented is displayed both clearly and objectively in a way that is easy to digest.
+The ultimate goal and objective for my site are to entice and appeal to Manchester United fans to engage with the website through its professional and attractive presentation. Therefore, I needed to ensure that the overall layout of my website looked appealing as well as user-friendly. That means that the information presented is displayed both clearly and objectively in a way that is easy to digest.
 
-Another goal for my website is to inform users and fans of the latest upcoming games that the club have yet to play in the season, giving the specigfic date of each fixture in a clearly organised tabular format. This is so that users know exactly what game the club are going to play next and when, so that they can make plans to watch the game beforehand. It also informs users of the games the club have already played in a colour coded format so it is easy and clear to read. This tells fans of how the club is currently performing in the season in a clear format.
+Another goal for my website is to inform users and fans of the latest upcoming games that the club has yet to play in the season, giving the specific date of each fixture in an organized tabular format. This is so that users know exactly what game the club is going to play next and when they are going to play it to make plans to watch the game beforehand. It also informs users of the games the club has already played in a color-coded format so it is easy and clear to read. This tells fans how the club is currently performing in the season in a clear format.
 
 <img src="./docs/images/responsive-design.jpg" width=900 height=500>
 
