@@ -276,6 +276,10 @@ Following writing the code and then committing and pushing to GitHub, this proje
 For code help:
 
 * [Simen Daehlin](https://github.com/Eventyret)
+* [Dom(dcode)](https://dev.to/dcodeyt/creating-beautiful-html-tables-with-css-428l)
+* [W3Bits](https://w3bits.com/css-image-hover-zoom/)
+* [Chris Coyier](https://css-tricks.com/simple-css-row-column-highlighting/)
+* [Andrey Krokhin](https://codepen.io/andreykrokhin/pen/mGEqja)
 * Code Institute tutoring
 
 For content and style inspiration
