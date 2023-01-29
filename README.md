@@ -73,15 +73,15 @@ Another goal for my website is to inform users and fans of the latest upcoming g
 
 ### Requirements
 
-* Maintains structure of website on different screen sizes
-* Information provided is clear and concise to the user
+* Maintains the structure of the website on different screen sizes
+* The information provided is clear and concise to the user
 * Deepen the connection between the fan and the club through the content within the site
-* Entice users who are not fans of the club with visually appealing structure
+* Entice users who are not fans of the club with a visually appealing structure
 * Retain the user’s attention
 
 ### Expectations
 
-* I expect for the colour scheme to match the club’s official colours
+* I expect the colour scheme to match the club’s official colours
 * I expect a level of consistency in the design of my site throughout all my sections
 * I expect all of my links (external and internal) to work as intended
 * I expect the structural integrity of my site to remain on smaller screens
